@@ -45,9 +45,10 @@ Property: Author
 Used in Documents:
   SampleDocument.docx
   YetAnotherDocument.docx
+```
 
-##License
+## License
 This tool is licensed under the MIT License.
 
-##Credits
+## Credits
 This tool utilizes the Aspose.Words library to handle Word documents. Visit the Aspose.Words website for more information.
